@@ -8,6 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+# Web Developer 🚀
+
+Passionate web developer with a keen eye for clean and efficient code. Committed to creating seamless, user-friendly experiences. Experienced in JavaScript, HTML, CSS, and more. Always exploring new technologies and ready to contribute to exciting projects. Let's build the web together! 💻✨
+
+
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Tailwind, Mongodb, Firebase**
