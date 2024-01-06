@@ -15,7 +15,7 @@ Passionate web developer with a keen eye for clean and efficient code. Committed
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React, Tailwind, Mongodb, Firebase**
+- 💬 Ask me about **React, Tailwind, Mongodb, Firebase, Express.js, Node.js**
 
 - 📫 How to reach me **tanviranjum046@gmail.com**
 
