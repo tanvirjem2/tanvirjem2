@@ -21,7 +21,7 @@ Passionate web developer with a keen eye for clean and efficient code. Committed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanvir-anjum-shozib-153402284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-anjum-shozib-153402284" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-tanvir-anjum-shozib-153402284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-anjum-shozib-153402284" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvir_2.0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_2.0_" height="30" width="40" /></a>
 </p>
 
