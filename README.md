@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md. Tanvir Anjum (Shozib)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
