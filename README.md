@@ -16,7 +16,7 @@ Passionate web developer with a keen eye for clean and efficient code. Committed
 
 - 💬 Ask me about **React, Tailwind, Mongodb, Firebase, Express.js, Node.js**
 
-- 📫 How to reach me **tanviranjum046@gmail.com**
+- 📫 How to reach me **tanvir.200936@s.pust.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +30,3 @@ Passionate web developer with a keen eye for clean and efficient code. Committed
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirjem2&show_icons=true&locale=en&layout=compact" alt="tanvirjem2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirjem2&show_icons=true&locale=en" alt="tanvirjem2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirjem2&" alt="tanvirjem2" /></p>
