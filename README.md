@@ -14,8 +14,8 @@
 - 💻 I’m a **MERN Stack Developer** who loves building modern, responsive, and user-friendly web apps.  
 - 🌱 Currently learning **Next.js**, **TypeScript**, and exploring **backend optimization** techniques.  
 - 🧠 I enjoy solving real-world problems through clean code and scalable architectures.  
-- 📫 Reach me at **shozib.dev@gmail.com**  
-- 📄 Check out my Resume → [View Resume](https://drive.google.com/file/d/1-t87ya-G5bBjjtJIUALrvXHZU_ASXuAh/view?usp=sharing)  
+- 📫 Reach me at **itzshozibstudio@gmail.com**  
+- 📄 Check out my Resume → [View Resume](https://drive.google.com/file/d/1o-091UMA4qQWoi9xHdVP9IWxezLHNP_b/view?usp=sharing)  
 
 ---
 
