@@ -25,13 +25,13 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **MERN Stack Developer** specializing in building **production-ready, scalable, and maintainable full-stack applications**.
+I am a **MERN Stack Developer** focused on building **production-ready, scalable, and maintainable full-stack applications**.
 
-I focus on **clean architecture, secure APIs, performance optimization**, and **real-world business logic** — not just UI demos.
+I care deeply about **clean architecture, secure APIs, performance optimization**, and **real-world business logic** — not just UI demos.
 
-✔ Strong backend foundations  
+✔ Strong backend fundamentals  
 ✔ Clean, readable frontend code  
-✔ Real project experience (Auth, Roles, Dashboards, APIs)
+✔ Hands-on experience with authentication, roles & dashboards  
 
 ---
 
@@ -43,25 +43,25 @@ I focus on **clean architecture, secure APIs, performance optimization**, and **
 - 🔐 **Auth & Security:** JWT, Role-Based Access Control  
 - ⚡ **Performance:** API optimization, reusable components  
 - 🧰 **Tools:** Git, GitHub, Postman, Firebase, Figma  
-- 🌱 **Currently Learning:** Next.js, TypeScript
+- 🌱 **Currently Learning:** Next.js, TypeScript  
 
 ---
 
 ## 🚀 Featured Projects (Real-World)
 
 ### 📦 Parcel Delivery Management System — MERN
-🔗 **Live:**  Working on it ...
-🔗 **Code:** Working on it ...
+🔗 **Live:** In progress (deployment coming soon)  
+🔗 **Code:** In progress (repository will be public)  
 
 **Why this project matters**
-- Designed for **real logistics businesses**
-- Handles **multiple user roles**
-- Scalable backend architecture
+- Designed for **real logistics workflows**
+- Supports **multiple user roles**
+- Built with scalability in mind
 
 **Key Features**
 - Admin, Merchant & Delivery Agent dashboards  
 - JWT authentication & protected routes  
-- Parcel tracking & delivery status system  
+- Parcel tracking & delivery status updates  
 - Centralized error handling & API validation  
 - Fully responsive UI  
 
@@ -71,14 +71,14 @@ React • Node.js • Express • MongoDB • JWT • Tailwind CSS
 ---
 
 ### 🛒 E-Commerce Web Application — MERN
-🔗 **Live:** Working on it ...
-🔗 **Code:** Working on it ...  
+🔗 **Live:** In progress  
+🔗 **Code:** In progress  
 
 **Key Features**
 - Product listing, cart & checkout system  
 - Admin product & order management  
 - Secure authentication flow  
-- RESTful API with clean folder structure  
+- Clean and scalable REST API structure  
 
 **Tech Stack:**  
 React • Redux • Node.js • Express • MongoDB
@@ -133,17 +133,17 @@ React • Redux • Node.js • Express • MongoDB
 🎯 **Roles:** Junior / Entry-Level / Intern MERN Developer  
 🌍 **Work:** On-site • Remote • Freelance  
 
-If you need a developer who:
-- Understands **real-world project flow**
+If you’re looking for a developer who:
+- Understands **real-world application flow**
 - Writes **clean & scalable code**
-- Learns fast and delivers consistently
+- Learns fast and improves continuously  
 
-📩 **Let’s talk:**  
+📩 **Let’s connect:**  
 👉 Email: **itzshozibstudio@gmail.com**  
-👉 LinkedIn: **Message Me Directly**
+👉 LinkedIn: **Message me directly**
 
 ---
 
 <p align="center">
-  <strong>💡 “Turning business problems into scalable web solutions.”</strong>
+  <strong>💡 “Turning real business problems into scalable web solutions.”</strong>
 </p>
