@@ -50,8 +50,8 @@ I focus on **clean architecture, secure APIs, performance optimization**, and **
 ## 🚀 Featured Projects (Real-World)
 
 ### 📦 Parcel Delivery Management System — MERN
-🔗 **Live:** https://your-live-link.com  
-🔗 **Code:** https://github.com/your-username/your-repo  
+🔗 **Live:**  Working on it ...
+🔗 **Code:** Working on it ...
 
 **Why this project matters**
 - Designed for **real logistics businesses**
@@ -71,8 +71,8 @@ React • Node.js • Express • MongoDB • JWT • Tailwind CSS
 ---
 
 ### 🛒 E-Commerce Web Application — MERN
-🔗 **Live:** https://your-live-link.com  
-🔗 **Code:** https://github.com/your-username/your-repo  
+🔗 **Live:** Working on it ...
+🔗 **Code:** Working on it ...  
 
 **Key Features**
 - Product listing, cart & checkout system  
