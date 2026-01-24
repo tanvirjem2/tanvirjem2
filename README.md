@@ -2,148 +2,107 @@
 
 <h1 align="center">MD Tanvir Anjum Shozib</h1>
 <h3 align="center">
-🚀 MERN Stack Developer • Building Scalable, Real-World Web Applications
+🚀 MERN Stack Developer • Turning Real Business Ideas into Scalable Web Apps
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-tanvir-anjum-shozib-348100364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
   </a>
   <a href="mailto:itzshozibstudio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=flat&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?logo=gmail"/>
   </a>
   <a href="https://github.com/tanvirjem2?tab=followers">
-    <img src="https://img.shields.io/github/followers/tanvirjem2?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/tanvirjem2?label=Followers&style=social"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvirjem2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=tanvirjem2&label=Profile%20Views&color=0e75b6"/>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Who I Am
+I’m a **MERN Stack Developer** focused on building **production-grade, scalable, and secure web applications**.
 
-I am a **MERN Stack Developer** focused on building **production-ready, scalable, and maintainable full-stack applications**.
-
-I care deeply about **clean architecture, secure APIs, performance optimization**, and **real-world business logic** — not just UI demos.
-
-✔ Strong backend fundamentals  
-✔ Clean, readable frontend code  
-✔ Hands-on experience with authentication, roles & dashboards  
+I care deeply about **clean architecture, secure APIs, performance**, and **real-world business logic** — not demo-only projects.
 
 ---
 
-## 🧠 Core Expertise
-
+## 🧠 Tech Arsenal
 - ⚛️ **Frontend:** React, Redux, Tailwind CSS, DaisyUI  
 - 🛠️ **Backend:** Node.js, Express.js, REST APIs  
 - 🗄️ **Database:** MongoDB (Mongoose, Aggregation)  
-- 🔐 **Auth & Security:** JWT, Role-Based Access Control  
-- ⚡ **Performance:** API optimization, reusable components  
-- 🧰 **Tools:** Git, GitHub, Postman, Firebase, Figma  
+- 🔐 **Auth:** JWT, Role-Based Access Control  
+- 🧰 **Tools:** Git, GitHub, Postman, Firebase  
 - 🌱 **Currently Learning:** Next.js, TypeScript  
 
 ---
 
-## 🚀 Featured Projects (Real-World)
+## 🚀 Featured Projects
 
-### 📦 Parcel Delivery Management System — MERN
-🔗 **Live:** In progress (deployment coming soon)  
-🔗 **Code:** In progress (repository will be public)  
+### 📦 Parcel Delivery Management System (MERN)
+A real-world logistics platform designed for scalability.
 
-**Why this project matters**
-- Designed for **real logistics workflows**
-- Supports **multiple user roles**
-- Built with scalability in mind
+🔗 **Live Demo:** _Coming soon_  
+🔗 **Source Code:** _Coming soon_
 
-**Key Features**
-- Admin, Merchant & Delivery Agent dashboards  
+**Highlights**
+- Multi-role dashboards (Admin, Merchant, Delivery Agent)  
 - JWT authentication & protected routes  
-- Parcel tracking & delivery status updates  
+- Parcel tracking & delivery lifecycle  
 - Centralized error handling & API validation  
-- Fully responsive UI  
-
-**Tech Stack:**  
-React • Node.js • Express • MongoDB • JWT • Tailwind CSS
 
 ---
 
-### 🛒 E-Commerce Web Application — MERN
-🔗 **Live:** In progress  
-🔗 **Code:** In progress  
+### 🛒 E-Commerce Platform (MERN)
+A full-featured online shopping application.
 
-**Key Features**
-- Product listing, cart & checkout system  
+🔗 **Live Demo:** _Coming soon_  
+🔗 **Source Code:** _Coming soon_
+
+**Highlights**
+- Product, cart & checkout system  
 - Admin product & order management  
 - Secure authentication flow  
-- Clean and scalable REST API structure  
-
-**Tech Stack:**  
-React • Redux • Node.js • Express • MongoDB
+- Scalable REST API architecture  
 
 ---
 
 ## 🛠️ Languages & Tools
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" alt="Redux"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" alt="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" alt="Tailwind CSS"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanvirjem2&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirjem2&layout=compact&theme=radical&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tanvirjem2&theme=radical"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirjem2&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirjem2&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🤝 Open To Opportunities
+## 🤝 Let’s Work Together
+🎯 **Open for:** Junior / Entry-Level / Intern MERN Developer  
+🌍 **Work:** Remote • On-site • Freelance  
 
-🎯 **Roles:** Junior / Entry-Level / Intern MERN Developer  
-🌍 **Work:** On-site • Remote • Freelance  
-
-If you’re looking for a developer who:
-- Understands **real-world application flow**
-- Writes **clean & scalable code**
-- Learns fast and improves continuously  
-
-📩 **Let’s connect:**  
-👉 Email: **itzshozibstudio@gmail.com**  
-👉 LinkedIn: **Message me directly**
-
----
+📩 **Email:** itzshozibstudio@gmail.com  
+🔗 **LinkedIn:** Open to connect  
 
 <p align="center">
-  <strong>💡 “Turning real business problems into scalable web solutions.”</strong>
+  <strong>💡 “Building software that solves real problems — cleanly and at scale.”</strong>
 </p>
