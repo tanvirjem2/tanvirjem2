@@ -42,17 +42,32 @@ I care deeply about **clean architecture, secure APIs, performance**, and **real
 
 ## 🚀 Featured Projects
 
-### 📦 Parcel Delivery Management System (MERN)
-A real-world logistics platform designed for scalability.
+## 🎬 MovieFlix – Android Application
 
-🔗 **Live Demo:** _Coming soon_  
-🔗 **Source Code:** _Coming soon_
+MovieFlix is a modern Android application built with React Native and TypeScript, designed to deliver a smooth and responsive movie browsing experience.
 
-**Highlights**
-- Multi-role dashboards (Admin, Merchant, Delivery Agent)  
-- JWT authentication & protected routes  
-- Parcel tracking & delivery lifecycle  
-- Centralized error handling & API validation  
+### 🔗 Demo & Source
+- **APK Demo:** [View APK](https://expo.dev/accounts/tanvir_2.0/projects/mobile_movie_app/builds/a8a7e353-002d-44b7-ad29-bb634a00b724)
+- **Source Code:** [GitHub Repository](https://github.com/tanvirjem2/react_native_movie_app)
+
+### ✨ Features
+- Browse popular and trending movies
+- Search movies with real-time results
+- View detailed movie information
+- Clean, modern, and responsive UI
+- Production-ready Android build
+
+### 🛠 Tech Stack
+- **Language:** TypeScript  
+- **Framework:** React Native  
+- **Styling:** NativeWind (Tailwind CSS for React Native)  
+- **Platform:** Expo, Expo Go  
+- **Backend:** Appwrite  
+- **API:** TMDB (The Movie Database)  
+- **Build Tool:** Expo EAS Build
+
+### 🚀 Build & Deployment
+The application is packaged as a production-ready Android APK using Expo EAS Build and is suitable for portfolio and resume demonstration.
 
 ---
 
