@@ -1,123 +1,81 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/tanvirjem2)
-
-<h1 align="center">MD Tanvir Anjum Shozib</h1>
-<h3 align="center">
-🚀 MERN Stack Developer • Turning Real Business Ideas into Scalable Web Apps
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-tanvir-anjum-shozib-348100364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+<div align="center">
+  <a href="https://github.com/tanvirjem2">
+    <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" alt="MasterHead" />
   </a>
-  <a href="mailto:itzshozibstudio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?logo=gmail"/>
-  </a>
-  <a href="https://github.com/tanvirjem2?tab=followers">
-    <img src="https://img.shields.io/github/followers/tanvirjem2?label=Followers&style=social"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvirjem2&label=Profile%20Views&color=0e75b6"/>
-</p>
+  <h1>🚀 MD Tanvir Anjum Shozib</h1>
+  <p align="center">
+    <strong>Full Stack Engineer | MERN Specialist | Mobile App Developer</strong>
+  </p>
 
----
+  <p align="center">
+    <a href="https://www.linkedin.com/in/md-tanvir-anjum-shozib-348100364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:itzshozibstudio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/tanvirjem2"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
+  </p>
 
-## 👨‍💻 Who I Am
-I’m a **MERN Stack Developer** focused on building **production-grade, scalable, and secure web applications**.
-
-I care deeply about **clean architecture, secure APIs, performance**, and **real-world business logic** — not demo-only projects.
+  <img src="https://komarev.com/ghpvc/?username=tanvirjem2&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+</div>
 
 ---
 
-## 🧠 Tech Arsenal
-- ⚛️ **Frontend:** React, Redux, Tailwind CSS, DaisyUI  
-- 🛠️ **Backend:** Node.js, Express.js, REST APIs  
-- 🗄️ **Database:** MongoDB (Mongoose, Aggregation)  
-- 🔐 **Auth:** JWT, Role-Based Access Control  
-- 🧰 **Tools:** Git, GitHub, Postman, Firebase  
-- 🌱 **Currently Learning:** Next.js, TypeScript  
+### ⚡ About Me
+I specialize in building **production-grade, scalable, and secure web applications**. My focus is on turning complex business ideas into high-performance software.
+
+- 🏗️ **Architecture:** Focused on Clean Code, MVC patterns, and scalable REST APIs.
+- 🔒 **Security:** Implementation of JWT, Role-Based Access Control (RBAC), and secure data handling.
+- 🌱 **Growth:** Currently mastering **Next.js 15**, **TypeScript**, and Cloud Architecture.
 
 ---
 
-## 🚀 Featured Projects
+### 💻 Tech Arsenal
 
-## 🎬 MovieFlix – Android Application
-
-MovieFlix is a modern Android application built with React Native and TypeScript, designed to deliver a smooth and responsive movie browsing experience.
-
-### 🔗 Demo & Source
-- **APK Demo:** [View APK](https://expo.dev/accounts/tanvir_2.0/projects/mobile_movie_app/builds/a8a7e353-002d-44b7-ad29-bb634a00b724)
-- **Source Code:** [GitHub Repository](https://github.com/tanvirjem2/react_native_movie_app)
-
-### ✨ Features
-- Browse popular and trending movies
-- Search movies with real-time results
-- View detailed movie information
-- Clean, modern, and responsive UI
-- Production-ready Android build
-
-### 🛠 Tech Stack
-- **Language:** TypeScript  
-- **Framework:** React Native  
-- **Styling:** NativeWind (Tailwind CSS for React Native)  
-- **Platform:** Expo, Expo Go  
-- **Backend:** Appwrite  
-- **API:** TMDB (The Movie Database)  
-- **Build Tool:** Expo EAS Build
-
-### 🚀 Build & Deployment
-The application is packaged as a production-ready Android APK using Expo EAS Build and is suitable for portfolio and resume demonstration.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `React.js`, `Redux Toolkit`, `Next.js`, `Tailwind CSS`, `DaisyUI`, `NativeWind` |
+| **Backend** | `Node.js`, `Express.js`, `REST APIs`, `Appwrite` |
+| **Mobile** | `React Native`, `Expo`, `TypeScript` |
+| **Database** | `MongoDB`, `Mongoose (Aggregation Pipeline)`, `Firebase` |
+| **DevOps** | `Git`, `GitHub`, `Postman`, `Vercel`, `EAS Build` |
 
 ---
 
-### 🛒 E-Commerce Platform (MERN)
-A full-featured online shopping application.
+### 🌟 Featured Projects
 
-🔗 **Live Demo:** _Coming soon_  
-🔗 **Source Code:** _Coming soon_
+#### 🎬 MovieFlix – High-Performance Android App
+*A premium movie discovery experience built with a focus on fluid UI and optimized data fetching.*
+- **Tech Stack:** React Native, TypeScript, NativeWind, TMDB API, Appwrite.
+- **Key Feature:** Real-time search with TMDB integration and production-ready Android builds.
+- [📦 View APK](https://expo.dev/accounts/tanvir_2.0/projects/mobile_movie_app/builds/a8a7e353-002d-44b7-ad29-bb634a00b724) • [💻 Source Code](https://github.com/tanvirjem2/react_native_movie_app)
 
-**Highlights**
-- Product, cart & checkout system  
-- Admin product & order management  
-- Secure authentication flow  
-- Scalable REST API architecture  
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</p>
+#### 🛒 Full-Stack E-Commerce Platform
+*A robust MERN marketplace designed for scalability and high-traffic performance.*
+- **Tech Stack:** MongoDB, Express, React, Node, JWT, Redux.
+- **Key Feature:** Advanced Admin dashboard, secure checkout flow, and product management.
+- [🚀 Live Demo (Soon)](#) • [💻 Source Code (Soon)](#)
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirjem2&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirjem2&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanvirjem2&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Tanvir's Stats" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanvirjem2&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirjem2&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🤝 Let’s Work Together
-🎯 **Open for:** Junior / Entry-Level / Intern MERN Developer  
-🌍 **Work:** Remote • On-site • Freelance  
+### 🤝 Let's Connect
+I am open to **Junior / Intern / Freelance** roles where I can help build impactful software.
 
-📩 **Email:** itzshozibstudio@gmail.com  
-🔗 **LinkedIn:** Open to connect  
+- 💬 Ask me about: **MERN, React Native, and UI/UX Optimization.**
+- 📫 Email: **itzshozibstudio@gmail.com**
+- ⚡ Fun Fact: I spend as much time reading documentation as I do writing code to ensure best practices.
 
-<p align="center">
-  <strong>💡 “Building software that solves real problems — cleanly and at scale.”</strong>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%" />
+</div>
